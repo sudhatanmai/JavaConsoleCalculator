@@ -1,2 +1,1 @@
-# JavaConsoleCalculator
-Java-based console calculator that supports addition, subtraction, multiplication, and division with user input.
+A simple console-based calculator built in Java that supports basic arithmetic operations.
