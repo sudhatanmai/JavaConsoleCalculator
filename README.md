@@ -63,7 +63,7 @@ A simple and interactive Java-based calculator that runs in the console. It perf
 ---
 ## 🖼️ Screenshot
 
-![Java Console Calculator Screenshot](Javacalculatorscreenshot.png)
+![Java Console Calculator Screenshot](Javacalculator_screenshot.png)
 
 
 ## 🔗 Useful Links
