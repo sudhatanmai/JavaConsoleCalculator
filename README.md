@@ -61,6 +61,10 @@ A simple and interactive Java-based calculator that runs in the console. It perf
 10. How do you debug a Java program?
 
 ---
+## 🖼️ Screenshot
+
+![Java Console Calculator Screenshot](Javacalculatorscreenshot.png)
+
 
 ## 🔗 Useful Links
 
